@@ -76,7 +76,10 @@ if uploadfile is not None:
            generate_pr = st.form_submit_button (label='Generate')
           
            
-            
+    if view_dataset:
+        st.header("The data can be viewed as:")
+        st.write(df)
+        
     if column_names:
         st.subheader("Column titles of uploaded data are:")
         st.text(df.columns)
