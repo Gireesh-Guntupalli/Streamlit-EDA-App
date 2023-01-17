@@ -1,4 +1,7 @@
 # Streamlit-EDA-App
+
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/115605874/212790945-9d50e643-28c3-4f94-bc34-7d7ddfd5625c.png">
+
 Access the app from this [link](https://gireesh-guntupalli-streamlit-eda-app-edaapp-7adtsb.streamlit.app/)
 
 This is a simple EDA app which can be used to perform Explorartory Data Analysis on your csv data. 
